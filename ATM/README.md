@@ -14,4 +14,4 @@
 
 The detailed UML class diagram is as below :-
 
-![ATM System UML Diagram](https://github.com/siddharthbaleja7/DesignPattern/blob/main/ATM/ATM.png)
+[ATM System UML Diagram](https://github.com/siddharthbaleja7/DesignPattern/blob/main/ATM/ATM.png)
